@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "6579ce4bdbc52e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8d53fddfe5287e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2482392f85683810",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8317467135c06fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cac1bfc1d490dd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7661f95d4019a57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "318dd27d64dec8e1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ac578804434cbcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "54f9e744a95838db",
+    "type": "split",
+    "children": [
+      {
+        "id": "01bd7149fb9a1974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef8db145bdc93f32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2a74ad7e5a296055",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b27b8b819351295f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "13da57ced7c82780",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2482392f85683810",
+  "lastOpenFiles": [
+    "docs/templates/instruction.md",
+    "README.md",
+    "docs/templates",
+    "image.png",
+    "docs/attachments/Pasted image 20240616145915.png",
+    "docs/attachments/obsidian_config_for_mkdocs.png",
+    "docs/attachments/Pasted image 20240616145928.png",
+    "Pasted image 20240616145806.png",
+    "docs/attachments",
+    "docs",
+    "Pasted image 20240616145756.png"
+  ]
+}
